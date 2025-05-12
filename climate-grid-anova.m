@@ -1,5 +1,7 @@
 clc; clear;
 
+
+
 %% === ANOVA Analysis for Climate Model Grid Outputs ===
 % This script performs a 3-way ANOVA on grid-based climate model outputs.
 % It analyzes the contributions of Model, Scenario, and Coefficient factors,
