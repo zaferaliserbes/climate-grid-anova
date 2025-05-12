@@ -1,6 +1,12 @@
 clc; clear;
 
-
+%% =========================================================================
+%  Script Name: Climate Model Grid Output ANOVA
+%  Description: Performs a 3-way ANOVA on climate model grid outputs.
+%  Author     : Dr. Zafer Ali Serbes
+%  Created on : 12 May 2025
+%  =========================================================================
+%
 
 %% === ANOVA Analysis for Climate Model Grid Outputs ===
 % This script performs a 3-way ANOVA on grid-based climate model outputs.
